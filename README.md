@@ -1,9 +1,13 @@
+![banner](https://user-images.githubusercontent.com/59439761/91942398-808ddc00-ed18-11ea-9d4a-06300a773c09.png)
+
+
 # WARP KERNEL 
-A Kernel You Have Always Been Wanted 
+A Kernel You Have Always Been Wanted ⭐️
 # Change Log
-v1.0 -->> initial Build
-# Features
-# 1.Working 120hz//90Hz//60hz Toggle For Phoenix
-# 2.Kali Nethunter Working (Beta)
-# 3.Did Some Optimizations
-# More Features Comming Soon
+v1.0 -- initial Build
+ # Features
+ # 1.Working 120hz//90Hz//60hz Toggle For Phoenix ⭐️
+ # 2.Kali Nethunter Working (Beta) ⭐️
+ # 3.Did Some Optimizations ⭐️
+ # More Features Comming Soon ⭐️ ⭐️ ⭐️
+
